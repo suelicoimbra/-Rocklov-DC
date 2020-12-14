@@ -1,6 +1,6 @@
 ###
 ### Dockerfile criado para compartilhar um agente de execução ruby e capybara completo
-### Feito para a comunidade de QA
+### Feito com S2 para a comunidade de QA
 ###
 
 FROM ruby:2.6.6-stretch
